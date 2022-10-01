@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "nombre": "Mochila",
+        "marca": "INFLUENCER",
+        "descripcion": "mochila doble cierre, compartimiento interno, color negra",
+        "precio": "1000",
+        "img": "./img/producto1.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Mochila",
+        "marca": "AMAYRA",
+        "descripcion": "morral color verde, detalles dorados, amarre ajustable",
+        "precio": "2000",
+        "img": "./img/producto2.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Porta Celular",
+        "marca": "CHIMOLA",
+        "descripcion": "mochila doble cierre, compartimiento interno, color negra",
+        "precio": "4000",
+        "img": "./img/producto3.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Mochila Matera",
+        "marca": "LSD",
+        "descripcion": "mochila doble cierre, compartimiento interno, color negra",
+        "precio": "5000",
+        "img": "./img/producto4.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Cartera Verde",
+        "marca": "AMAYRA",
+        "descripcion": "mochila doble cierre, compartimiento interno, color negra",
+        "precio": "1500",
+        "img": "./img/producto5.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Mochila Verde",
+        "marca": "AMAYRA",
+        "descripcion": "mochila doble cierre, compartimiento interno, color negra",
+        "precio": "$2000",
+        "img": "./img/producto6.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "Mochila Roja",
+        "marca": "CHIMOLA",
+        "descripcion": "mochila doble cierre, compartimiento interno, color negra",
+        "precio": "$6900",
+        "img": "./img/producto7.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "Mochila para Niña",
+        "marca": "LSD",
+        "descripcion": "mochila doble cierre, compartimiento interno, color negra",
+        "precio": "$1800",
+        "img": "./img/producto8.jpg"
+    },
+    {
+        "id": 9,
+        "nombre": "Mochila Negra",
+        "marca": "AMAYRA",
+        "descripcion": "mochila doble cierre, compartimiento interno, color negra",
+        "precio": "$2900",
+        "img": "./img/producto9.jpg"
+    }
+]

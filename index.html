@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- toastify -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+
+    <!-- mi estilo css -->
+    <link rel="stylesheet" href="./css/style.css">
+
+    <title>MAITEE ACCESORIOS</title>
+</head>
+<body>
+    <header class="encabezado">
+        <h1>Mitee Accesorios</h1>
+
+        <div class="seccionUsuarios">
+          <div class="seccionUsuarios__carrito">
+            <img class="seccionUsuarios__img" src="./img/icon-cart.svg" alt="" width="50">
+            <div class="seccionUsuarios__notificacion" id="contadorCarrito"></div>
+            
+            <!-- invisible -->
+            <div class="carritoContenedor" id="carrito-contenidado">
+                <h2>Carrito de Compra</h2>
+                <p>Precio total: $ <span id="precioTotal"></span></p>
+                <button class="btnFinalizarCompra" id="btn-finalizar">COMPRAR!</button>
+
+                <!-- <p>produto: mochila</p>
+                <p>cantida: 2 </p>
+                <button class="botonEliminar" id="id1"><img src="./img/eliminar.png" alt="" width="15"></button> -->
+
+                
+            </div>
+
+          </div>
+          <img class="seccionUsuarios__logo" src="./img/descarga.png" alt="" width="50">
+        </div>
+
+    </header>
+
+    <main>
+
+        <div class="elementos">
+            <!-- se escribe el html con js -->
+
+            <!-- <div class="primera">
+            <h2>Mochila</h2>
+            <p>marca</p>
+            <p>descripcion: mochila negra</p>
+            <h3>precio</h3>
+            <img src="./img/producto1.jpg" alt="Mochila" width="400">
+            <div class="cajaAgregar">
+                <div id="btn1" class="btnMenos">-</div>
+                <input class="cajaCantidad" type="text" value="0">
+                <div class="btnMas">+</div>
+            </div>
+            <input class="btnAgregar" type="submit" name="hola" placeholder="lalla"="gg">
+            <hr>
+            
+            </div> -->
+
+        </div>
+
+
+    </main>
+
+
+    <!-- javascript -->
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="./js/main.js"></script>
+</body>
+</html>
